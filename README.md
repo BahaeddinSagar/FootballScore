@@ -21,6 +21,10 @@ This project is about combining various ideas and skills we’ve been practicing
 
 
 Adding button code to your app
+
 Updating views
+
 Properly scoping variables
+
 Finding views by their ID
+
